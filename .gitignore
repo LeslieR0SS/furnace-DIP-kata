@@ -1,0 +1,28 @@
+# Maven
+target/
+
+# VSCode
+.vscode/
+
+# IntelliJ
+.idea/
+
+# MacOS
+.DS_Store
+out/
+.idea/
+
+# Eclipse
+bin/
+tmp/
+
+# Other
+*~
+*.iml
+*.eml
+.project
+.settings
+.classpath
+.springBeans
+nb-configuration.xml
+
